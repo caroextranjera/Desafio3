@@ -1,0 +1,52 @@
+.navbar{
+	height: 300px;
+	width: 1000px;
+	border: 1px solid gray;
+	float: center;
+	margin-left: 300px;
+	background-color: white;
+	
+
+}
+.cuadro1{
+	height: 175px;
+	width: 250px;
+	background-color: pink;
+	margin-bottom: -48px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 75px;
+}
+.cuadro2{
+	height: 75px;
+	width: 1000px;
+	background-color: yellow;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: -270px;
+	text-align: left;
+
+
+}
+.cuadro3{
+	height: 50px;
+	width: 1000px;
+	background-color: grey;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 175px;
+	text-align: center;
+}
+
+.cuadro4{
+	height: 175px;
+	width: 750px;
+	background-color: white;
+	margin-bottom: 75px;
+	margin-left: 250px;
+	margin-right: 0px;
+	margin-top: -246px;
+	text-align: left;
+}

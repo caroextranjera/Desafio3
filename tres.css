@@ -1,0 +1,129 @@
+.españa{
+	height: 300px;
+	width: 500px;
+	margin: 1em;
+	border: 1px solid gray;
+	float:left;
+	background-color: yellow;
+}
+.franja1{
+	height: 90px;
+	width: 500px;
+	background-color: red;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+.franja2{
+	height: 90px;
+	width: 500px;
+	background-color: red;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 120px;
+}
+
+.dinamarca{
+	height: 300px;
+	width: 500px;
+	margin: 1em;
+	border: 1px solid gray;
+	float:left;
+	background-color: white;
+}
+
+.cuadro1{
+	height: 125px;
+	width: 125px;
+	background-color: red;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+.cuadro2{
+	height: 125px;
+	width: 350px;
+	background-color: red;
+	margin-bottom: -15px;
+	margin-left: 150px;
+	margin-right: 0px;
+	margin-top: -125px;
+}
+.cuadro3{
+	height: 125px;
+	width: 125px;
+	background-color: red;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 65px;
+}
+.cuadro4{
+	height: 125px;
+	width: 350px;
+	background-color: red;
+	margin-bottom: 125px;
+	margin-left: 150px;
+	margin-right: 0px;
+	margin-top: -125px;
+}
+.emiratos{
+	height: 300px;
+	width: 500px;
+	margin: 1em;
+	border: 1px solid gray;
+	float:left;
+	background-color: white;
+
+}
+ .bloque1{
+ 	height: 300px;
+	width: 125px;
+	background-color: red;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+ }
+
+  .bloque2{
+  	height: 100px;
+	width: 375px;
+	background-color: green;
+	margin-bottom: -15px;
+	margin-left: 125px;
+	margin-right: 0px;
+	margin-top: -300px;
+  }
+   .bloque3{
+   	height: 100px;
+	width: 375px;
+	background-color: black;
+	margin-bottom: -15px;
+	margin-left: 125px;
+	margin-right: 0px;
+	margin-top: 115px;
+}
+    .japón{
+    height: 300px;
+	width: 500px;
+	margin: 1em;
+	border: 1px solid gray;
+	float:left;
+	background-color: white;
+	 }
+	 .circulo{
+	 width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background-color: red;
+     margin-bottom: 80px;
+     margin-left: 175px;
+     margin-right: 100px;
+     margin-top: 80px; 
+     
+	 

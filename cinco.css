@@ -1,0 +1,25 @@
+
+
+.foto1{
+	left: 50px;
+	position: absolute;
+	top: 50px;
+}
+
+.foto2{
+	left: 75px;
+	position: absolute;
+	top: 90px;
+}
+
+.cuadro1{
+	left: 50px;
+	position: absolute;
+	top: 50px;
+}
+
+.cuadro2{
+	left: 500px;
+	position: relative;
+	top: 400px;
+}

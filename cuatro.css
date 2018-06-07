@@ -1,0 +1,15 @@
+.sección{
+position: fixed;
+left:120px;
+height: 200px;
+width: 75%;
+padding: 50px;
+background-color: #b0ccab;
+}
+.párrafo{
+	text-align: left;
+}
+.párrafo2{
+	position: relative;
+	left: 40px;
+}
